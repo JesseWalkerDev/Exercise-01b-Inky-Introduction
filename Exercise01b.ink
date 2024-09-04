@@ -1,7 +1,4 @@
 
-VAR has_torch = false
-VAR has_stalagmite = false
-
 -> cave_mouth
 
 == cave_mouth ==
